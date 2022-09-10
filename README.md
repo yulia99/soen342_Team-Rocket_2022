@@ -21,6 +21,7 @@ Develop a .....
 
 * Saad Khan (GitHub: @khandragon) Role: 
 * Yulia Kosharych (GitHub: @yulia99) Role: 
+* Emanuelle Ranaldi (GitHub: @emaranald22) Role:
 * 
 
 ## Technologies
