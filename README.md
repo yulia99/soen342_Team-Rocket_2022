@@ -21,7 +21,12 @@ Develop a .....
 
 * Saad Khan (GitHub: @khandragon) Role: 
 * Yulia Kosharych (GitHub: @yulia99) Role: 
-* 
+* Christos Karabatsos (GitHub: @cckarabatsos) Role:
+* Aleksandr Vinokhodov (GitHub: @daxsis) Role:
+* Emanuelle Ranaldi (GitHub: @emaranald22) Role:
+* Dzmitry Fiodarau (GitHub: @dzm-fiodarau) Role:
+* Olivier Langlois Medaino (GitHub: @ ) Role:
+* Tahmid Rahman (GitHub: @ ) Role:
 
 ## Technologies
 
