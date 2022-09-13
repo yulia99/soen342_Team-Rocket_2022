@@ -25,7 +25,7 @@ Develop a .....
 * Aleksandr Vinokhodov (GitHub: @daxsis) Role:
 * Emanuelle Ranaldi (GitHub: @emaranald22) Role:
 * Dzmitry Fiodarau (GitHub: @dzm-fiodarau) Role:
-* Olivier Langlois Medaino (GitHub: @ ) Role:
+* Olivier Langlois Medaino (GitHub: @SkylineP ) Role:
 * Tahmid Rahman (GitHub: @ ) Role:
 
 ## Technologies
