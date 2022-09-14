@@ -27,7 +27,8 @@ Develop a .....
 * Emanuelle Ranaldi (GitHub: @emaranald22) Role:
 * Dzmitry Fiodarau (GitHub: @dzm-fiodarau) Role:
 * Olivier Langlois Medaino (GitHub: @SkylineP ) Role:
-* Tahmid Rahman (GitHub: @ ) Role:
+* Tahmid Rahman (GitHub: @drbladz) Role:
+* Maria Zana (GitHub: @Alexicazana) Role:
 
 ## Technologies
 
