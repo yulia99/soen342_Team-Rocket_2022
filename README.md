@@ -5,18 +5,18 @@ Project for Soen 342 Team Rocket Fall 2022
 
 ## Objective
 
-Develop a ..... 
+Develop an E-Academy platform 
 
 ## Project Description
 
-..........
+E-Academy
 
 ## Core Features
 
-* 1
-* 2
-* 3
-* ...
+* Creation of accounts
+* Request for lessons
+* Attribution of courses to tutors
+* TBD
 
 ## Team Members
 
