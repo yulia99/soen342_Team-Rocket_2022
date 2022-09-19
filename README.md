@@ -3,20 +3,32 @@
 
 Project for Soen 342 Team Rocket Fall 2022
 
-## Objective
-
-Develop an E-Academy platform 
-
 ## Project Description
 
 E-Academy
 
-## Core Features
+## Objective
+
+Develop an E-Academy platform 
+
+## Features
 
 * Creation of accounts
 * Request for lessons
 * Attribution of courses to tutors
 * TBD
+
+## Tools and Techniques
+
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+* SQL
+* React
+* Node.js
+* MongoDB
+* Figma
 
 ## Team Members
 
@@ -29,15 +41,3 @@ E-Academy
 * Olivier Langlois Medaino (GitHub: @SkylineP ) Role:
 * Tahmid Rahman (GitHub: @drbladz) Role:
 * Maria Zana (GitHub: @Alexicazana) Role:
-
-## Technologies
-
-* HTML
-* CSS
-* Bootstrap
-* Javascript
-* SQL
-* React
-* Node.js
-* MongoDB
-* Figma
