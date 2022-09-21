@@ -9,24 +9,7 @@ Develop an E-Academy platform
 
 "E-Academy is a platform where students and tutors find the necessary support for online tutoring. The
 platform puts in contact students/parents who need help and tutors who want to help. Therefore, it has
-got different kinds of Users:
-
-• Guests
-o Can request for registration as tutors
-o Access general sections
-• Students (and/or parent/guardian):
-o Requests for lessons
-o Connects to the shared board
-o Upload/download documents
-o …
-• Tutors
-o Responsible for setting meetings with the students (and the parent)
-o …
-• Administrator
-o Tutor selection and general management
-o Managing requests
-o …
-"
+got different kinds of Users"
 
 
 ## Features
