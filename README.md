@@ -3,7 +3,8 @@
 
 ## Objective
 
-Develop an E-Academy platform 
+The Objective of this project is to develop an E-Academy websites for students that 
+wish to excel at school with the help of tutors for courses. 
 
 ## Project Description
 
