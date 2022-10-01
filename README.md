@@ -15,6 +15,8 @@ tutors get work opportunities and, help students and parents who want their chil
 
 ## Features
 
+Core Features:
+
 For all users:
   * Account creation for each type of user
   * Search bar
@@ -46,6 +48,12 @@ For students/parents
   * Feedback review
   * Manage users’ accounts
   
+Additional features:
+
+ * Review system for students, parents and tutors
+ * Tutor of the month
+ * Recorded one-on-one
+
 ## Team Members
 
 * Saad Khan (GitHub: @khandragon)
