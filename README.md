@@ -3,12 +3,12 @@
 
 ## Objective
 
-The Objective of this project is to develop an E-Academy websites for students that 
+The Objective of this project is to develop an E-Academy website for students that 
 wish to excel at school with the help of tutors for courses. 
 
 ## Project Description
 
-"E-Academy is a platform where students and tutors find the necessary support for online tutoring. The
+StudyBuddies "[..]is a platform where students and tutors find the necessary support for online tutoring. The
 platform puts in contact students/parents who need help and tutors who want to help. Therefore, it has
 got different kinds of Users"
 
