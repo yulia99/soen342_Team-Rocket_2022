@@ -15,11 +15,37 @@ tutors get work opportunities and, help students and parents who want their chil
 
 ## Features
 
-* Creation of accounts
-* Request for lessons
-* Attribution of courses to tutors
-* TBD
-
+For all users:
+  * Account creation for each type of user
+  * Search bar
+  * View the list of available topics and overview of the subject
+  * Background and specialization of every tutor 
+  * Electronic books catalog
+  * Free trial
+  
+For students/parents
+  * Paid monthly subscription or hourly rate with tutors
+  * Pick a random or specific tutor
+  * Online live/pre-recorded, group/individual lectures based on student need
+  * Q&A sessions with tutors
+  * Solo registration only after the age of 12
+  * Access to particular tutor’s notes
+  * Parent has the access to the same features as student
+  * Request a one-on-one with a tutor
+  * Upload and download documents
+  
+ For tutors
+  * Create a page for your topic
+  * Make your own schedule
+  * Student appreciation reward
+  * Paid per content
+  
+ For admins
+  * Delete/add any public information on the website
+  * Delete/deactivate any user’s account 
+  * Feedback review
+  * Manage users’ accounts
+  
 ## Team Members
 
 * Saad Khan (GitHub: @khandragon)
